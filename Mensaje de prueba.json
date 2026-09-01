@@ -1,6 +1,14 @@
-{
-  "id": 1,
-  "title": "Novedad!!",
-  "message": "Primer Mensaje De Prueba!! jejeje",
-  "image_url": "https://cdn.discordapp.com/attachments/1386086652094451814/1543472477122990100/Prueba.png?ex=6a94fe42&is=6a93acc2&hm=e909d51264be4654c44605ec6f57544bedd0cec3477921c1fa133766e63cf7ff"
-}
+[
+  {
+    "id": 1,
+    "title": "Novedad!!",
+    "message": "Nuevo Gauntlet CC",
+    "image_url": "https://cdn.discordapp.com/attachments/1398444574166220944/1543750012607926312/Contest.png?ex=6a96a97c&is=6a9557fc&hm=4358cbb1777a95d2b8333ed8ed00fc545c352680a8cc97901790ff726ff163b0"
+  },
+  {
+    "id": 2,
+    "title": "Nueva Monedita!",
+    "message": "Estrellitas",
+    "image_url": "https://cdn.discordapp.com/attachments/1398444574166220944/1531810414667501608/Estrellita.png?ex=6a96bb5e&is=6a9569de&hm=ad8f1d84c4435e9d6afb3d4a7c16584350677413ba7bf85d0c57d904b0f49752"
+  }
+]
