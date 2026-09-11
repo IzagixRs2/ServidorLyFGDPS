@@ -1,8 +1,14 @@
 [
   {
-    "id": 10,
+    "id": 1,
     "title": "-----== Creator Contest ==-----",
     "message": "Se viene el primer gauntlet del GDPS!! si quieres participar en el contest unete al servidor de discord e envia tu nivel!!. tambien para saber mas info del Layout Gauntlet Contest!!",
+    "image_url": "https://cdn.discordapp.com/attachments/1398444574166220944/1543750012607926312/Contest.png?ex=6aa1de3c&is=6aa08cbc&hm=4d73dd02c8ad79cf2e28f0d36fd48b4c89f13a9c907b4e5b7f637a30274c523e"
+  },
+  {
+    "id": 2,
+    "title": "-----== Prueba XD ==-----",
+    "message": "Si",
     "image_url": "https://cdn.discordapp.com/attachments/1398444574166220944/1543750012607926312/Contest.png?ex=6aa1de3c&is=6aa08cbc&hm=4d73dd02c8ad79cf2e28f0d36fd48b4c89f13a9c907b4e5b7f637a30274c523e"
   }
 ]
